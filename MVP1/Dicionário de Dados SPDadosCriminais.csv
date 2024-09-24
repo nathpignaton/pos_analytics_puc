@@ -1,0 +1,26 @@
+﻿Campos,Descrição
+ANO_BO,Ano do Boletim
+ANO_ESTATISTICA,Ano em que a ocorrência foi inserida na estatística oficial 
+BAIRRO,Bairro da Ocorrência
+CIDADE,Cidade de Registro
+DATA_COMUNICACAO,Data da Comunicação
+DATA_OCORRENCIA_BO,Data da Ocorrência
+DESC_PERIODO,Período da Ocorrência
+DESCR_CONDUTA,Tipo de local ou circunstancia que qualifica a ocorrencia
+DESCR_TIPOLOCAL,Descreve grupo de tipos de locais onde se deu o fato
+HORA_OCORRENCIA_BO,Hora da Ocorrência
+LATITUDE,Latitude da Ocorrência
+LOGRADOURO,Logradouro dos fatos
+LONGITUDE,Longitude da Ocorrência
+MÊS ESTATISTICA,Mês em que a ocorrência foi inserida na estatística oficial 
+NATUREZA_APURADA,Natureza de Publicação
+NOME_DELEGACIA,Delegacia responsável pelo registro
+NOME_DELEGACIA_CIRCUNSCRIÇÃO,Delegacia de Circunscrição
+NOME_DEPARTAMENTO,Departamento responsável pelo registro
+NOME_DEPARTAMENTO_CIRCUNSCRIÇÃO,Departamento de Circunscrição
+NOME_MUNICIPIO_CIRCUNSCRIÇÃO,Município da Delegacia de Circunscrição
+NOME_SECCIONAL,Delegacia Seccional responsável pelo registro
+NOME_SECCIONAL_CIRCUNSCRIÇÃO,Seccional de Circunscrição
+NUM_BO,Número do Boletim
+NUMERO_LOGRADOURO,Numero do Logradouro dos fatos
+RUBRICA,Natureza juridica da ocorrencia
