@@ -1,5 +1,3 @@
-# Ciência de Dados e Analytics - PUC Rio
-Repositório com os MVPs da minha pós graduação em ciência de dados e analytis da PUC Rio.
+#MVP 1 - Pré processamento de dados para análise de crimes na cidade de São Paulo
 
-### MVP 1 - Análise de dados e boas práticas
-Pasta com os arquivos necessários para rodar o primeiro MVP.
+(incluir aqui, depois, a introdução do relatório contendo a definição do problema).
